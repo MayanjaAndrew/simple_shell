@@ -5,7 +5,7 @@ This is a simple UNIX command interpreter based on bash and Sh.
 ## Authors & Copyrights
 
 * Mayanja Andrew <[andremayanja@gmail.com](https://github.com/MayanjaAndrew)>
-* Edward Ortiz <[edward0rtiz](https://github.com/edward0rtiz)>
+* Kamanzi Mark Anthony <[marckamanzi64@gmail.com](https://github.com/Kamanzi-MarcAnthony)>
 
 ## More information
 
